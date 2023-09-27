@@ -1,4 +1,5 @@
-using Microsoft.AspNetCore.Diagnostics;
+
+using MusicBlendHub.Identity.Middlewares;
 
 namespace MusicBlendHub.Identity
 {
