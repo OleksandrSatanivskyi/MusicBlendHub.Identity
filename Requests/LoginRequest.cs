@@ -1,4 +1,4 @@
-﻿namespace Pastebin.Identity.Requests
+﻿namespace MusicBlendHub.Identity.Requests
 {
     public class LoginRequest
     {
